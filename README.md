@@ -13,10 +13,9 @@ This repository contains practical work for Software Engineering and Devops.
 - style.css: Webpage styling
 
 ## Version Control
-
-## Version Control
 This project uses Git to track changes aand Github to host the repository.
 
-## Version Control
-This project uses Git to track changes to host the repository.
-This change was made directly in Github to demonstrate Git pull.
+## Git Push and Pull
+Demonstration of Git push and pull.
+
+This change was made directly in GitHub to demonstrate Git pull.
