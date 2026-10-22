@@ -19,3 +19,4 @@ This project uses Git to track changes aand Github to host the repository.
 
 ## Version Control
 This project uses Git to track changes to host the repository.
+This change was made directly in Github to demonstrate Git pull.
